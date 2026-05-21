@@ -1,7 +1,7 @@
 ## Hi there, I'm Diego Morales👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Scientist+Business+Intelligence+%7C+ML+Engineer;Turning+Complex+Data+into+AI+Solutions;GenAI+%26+Predictive+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Business+Intelligence+Specialist;Turning+Complex+Data+into+AI+Solutions;GenAI+%26+Predictive+Analytics" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
