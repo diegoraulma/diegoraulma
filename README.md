@@ -1,15 +1,12 @@
 ## Hi there, I'm Diego Morales👋
 
 <div align="center">
-  <!--  You can customize the typing text in the "lines=" section of the URL below -->
-  <!--  For an ampersand (&), use &amp; (e.g., Analytics+%26+Optimization) -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Data+Scientist+%7C+Business+Intelligence;Turning+Complex+Data+into+AI+Solutions;GenAI+%26+Predictive+Analytics" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Data+Scientist+Business+Intelligence+%7C+ML+Engineer;Turning+Complex+Data+into+AI+Solutions;GenAI+%26+Predictive+Analytics" alt="Typing SVG" />
 </div>
 
 <!-- 🔗 Update these links with your own social media and contact information -->
 <p align="center">
-  <a href="https://linkedin.com/in/diegoraulma"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
-  <a href="https://youtube.com/your-channel-url"><img src="https://img.shields.io/badge/YouTube-My_Channel-red?style=for-the-badge&logo=youtube"></a>
+  <a href="https://linkedin.com/in/diegoraulma/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"></a>
   <a href="mailto:diegoraulma@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-green?style=for-the-badge&logo=gmail"></a>
 </p>
 
@@ -21,7 +18,9 @@ My background combines solid technical skills in predictive modeling and compute
 I thrive in multicultural environments, leveraging statistical analysis and AI to build proactive business solutions that optimize operations and reduce customer churn.
 
 When I'm not working with data, I enjoy exploring my culinary roots by cooking traditional dishes from my region, cycling along the city streets or the beach to clear my mind, and staying up-to-date with the latest trends and shifts in the tech industry. I love the "aha!" moment when data reveals something new and useful.
-      
+
+---
+
 ## 🏆 Featured Data Projects (Datathons & Research)
 
 * **⚡ Churn Reduction & GenAI Solution (Hey Banco | Datathon TEC 2026):** Developed a proactive AI solution using Amazon Titan v2 and hierarchical clustering to personalize customer dynamics and mitigate churn.
@@ -30,10 +29,7 @@ When I'm not working with data, I enjoy exploring my culinary roots by cooking t
 * **♻️ Waste Detection App (Google Colab, 2023):** Trained a YOLOv7 object detection model using the TACO dataset to automate recyclable waste classification.
 * **🌸 Flower Classification CNN (TensorFlow & Keras, 2023):** Built a Convolutional Neural Network with custom feature map visualizations presented at the International Congress of Systems Engineering.
 
-## 🌱 Currently Learning 
-
-- [A new skill or technology you're exploring, e.g., Advanced machine learning techniques in Scikit-learn.]
-- [Another skill, e.g., Cloud data warehousing with Google BigQuery.]
+---
 
 ## 🛠️ Technical Skillset
 
@@ -61,6 +57,8 @@ When I'm not working with data, I enjoy exploring my culinary roots by cooking t
   <img src="https://img.shields.io/badge/Excel_Advanced-217346?style=flat&logo=microsoft-excel&logoColor=white" alt="Excel">
   <img src="https://img.shields.io/badge/Scrum_Agile-009432?style=flat&logo=scrumalliance&logoColor=white" alt="Scrum">
 </p>
+
+---
 
 ## 🌱 Currently Expanding Horizons
 * **GenAI Frameworks:** Deepening my NTT DATA Yellow Belt GenAI certification into advanced LLM orchestration.
